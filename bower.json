@@ -1,0 +1,22 @@
+{
+  "name": "binarta.metadata.angular",
+  "main": "./src/metadata.js",
+  "dependencies": {
+    "angular": "1.2.5",
+    "binarta.rest.client.angular": "0.0.*",
+    "binarta.angularx": "v0.*.*"
+  },
+  "devDependencies": {
+    "angular-mocks": "1.2.5",
+    "thk-rest-client-mock": "0.0.*",
+    "thk-notifications-mock": "0.*.*",
+    "thk-config-mock": "0.*.*",
+    "jquery": "1.10.1"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ]
+}
